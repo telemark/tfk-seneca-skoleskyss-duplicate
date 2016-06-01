@@ -13,8 +13,7 @@ const options = {
     auto: true,
     listen: [
       {pin: 'role:duplicate, cmd:set', model: 'consume'},
-      {pin: 'role:duplicate, cmd:check', model: 'consume'},
-      {pin: 'role:duplicate, cmd:compare', model: 'consume'}
+      {pin: 'role:duplicate, cmd:check', model: 'consume'}
     ]
   },
   duplicate: {
