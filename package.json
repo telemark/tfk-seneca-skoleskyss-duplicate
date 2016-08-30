@@ -34,7 +34,7 @@
     "tap": "7.0.0"
   },
   "dependencies": {
-    "md5": "2.1.0",
+    "md5": "2.2.0",
     "mongojs": "2.4.0",
     "seneca": "3.0.0",
     "seneca-balance-client": "0.6.0",
